@@ -1,0 +1,6 @@
+\output_phase1/sample_data
+\output_phase1/tuning
+\output_phase1/cifar10_tuning
+\output_phase1/best_model.h5
+\output_phase1/results.json
+\output_phase1/model_summary.txt
