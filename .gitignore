@@ -6,3 +6,5 @@
 \output_phase1/model_summary.txt
 \output_phase2/BestModel
 \Classification
+\output_phase3/best_caltech101_model_stage2.h5
+\output_phase3/best_caltech101_model_stage1.h5
